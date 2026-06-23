@@ -1,12 +1,12 @@
 [
   {
-    "name": "Animals",
+    "name": "Verbs 1",
     "words": [
-      { "jp": "いぬ", "en": "dog" },
-      { "jp": "ねこ", "en": "cat" },
-      { "jp": "とり", "en": "bird" },
-      { "jp": "うま", "en": "horse" },
-      { "jp": "さかな", "en": "fish" }
+      { "jp": "に会う", "en": "meet" },
+      { "jp": "（を）食べる", "en": "eat" },
+      { "jp": "を好きだ", "en": "like" },
+      { "jp": "（を）聞く", "en": "listen (to)" },
+      { "jp": "（を）知っている", "en": "know" }
     ]
   },
   {
