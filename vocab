@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Animals",
+    "words": [
+      { "jp": "いぬ", "en": "dog" },
+      { "jp": "ねこ", "en": "cat" },
+      { "jp": "とり", "en": "bird" },
+      { "jp": "うま", "en": "horse" },
+      { "jp": "さかな", "en": "fish" }
+    ]
+  },
+  {
+    "name": "School",
+    "words": [
+      { "jp": "がっこう", "en": "school" },
+      { "jp": "せんせい", "en": "teacher" },
+      { "jp": "ともだち", "en": "friend" },
+      { "jp": "ほん", "en": "book" },
+      { "jp": "えんぴつ", "en": "pencil" }
+    ]
+  },
+  {
+    "name": "Food & Drink",
+    "words": [
+      { "jp": "りんご", "en": "apple" },
+      { "jp": "みず", "en": "water" },
+      { "jp": "ぎゅうにゅう", "en": "milk" },
+      { "jp": "たまご", "en": "egg" },
+      { "jp": "パン", "en": "bread" }
+    ]
+  }
+]
